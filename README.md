@@ -1,5 +1,5 @@
 # image-viewer
-Image Gallery built using React
+Image Gallery Built Using React
 
 ### Question 1
 My response can be found in repository in a markdown file named [response-to-question-1](https://github.com/jugit88/image-viewer/blob/master/response-to-question-1.md)
