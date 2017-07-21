@@ -2,7 +2,7 @@
 Image Gallery built using React
 
 ### Question 1
-My response can be found in repository as [response-to-question-1](https://github.com/jugit88/image-viewer/blob/master/response-to-question-1.md)
+My response can be found in repository in a markdown file named [response-to-question-1](https://github.com/jugit88/image-viewer/blob/master/response-to-question-1.md)
 ### Run
 1. Clone repository:
 `git clone https://github.com/jugit88/image-viewer.git`
